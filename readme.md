@@ -116,17 +116,6 @@ hybrid-translation-demo/
     └── hybrid_translator.py # Combined approach
 ```
 
-## Citation
-
-If you use this system in your research, please cite:
-
-```bibtex
-@article{author2025hybrid,
-  title={Hybrid Machine and LLM-based Translation System},
-  author={Your Name},
-  journal={Conference Name},
-  year={2025}
-}
 ```
 
 ## License
