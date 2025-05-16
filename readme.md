@@ -1,8 +1,21 @@
-# Hybrid Translation System (MAPS Benchmark Companion)
+# MAPS Demo: Hybrid Translation System for Multilingual Agentic Benchmarks
 
-This project provides a reference implementation of the hybrid translation pipeline described in our paper, MAPS: A Multilingual Agent Performance and Safety Benchmark. It supports the construction of high-quality multilingual datasets by combining machine translation with LLM-based refinement and quality assurance.
+This repository provides a reference implementation of the **hybrid translation pipeline** used in the MAPS benchmark, introduced in our paper:  
+**MAPS: A Multilingual Agent Performance and Safety Benchmark**
 
-## ey Features
+## 🖼️ Benchmark Overview
+
+**Figure 1:** MAPS benchmark structure across agents, tasks, and 11 languages  
+![Figure 1](demo/intro_pic_v2.png)
+
+## 🔄 Hybrid Translation Pipeline
+
+To create high-fidelity multilingual agentic benchmarks, we designed a **multi-stage translation system** that balances structural alignment, semantic accuracy, and task-specific fidelity.  
+This pipeline was critical to generating consistent and verifiable task variants across 10 target languages beyond English.
+
+![Figure 1](demo/translation_pipeline_v2.png)
+
+## Key Features
 
 - **Hybrid Translation Pipeline**: Combines the speed of machine translation with the quality of LLM-based refinement
 - **Math Expression Preservation**: Preserves LaTeX and other mathematical expressions during translation
