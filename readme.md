@@ -1,8 +1,8 @@
-# Hybrid Translation System
+# Hybrid Translation System (MAPS Benchmark Companion)
 
-A robust translation system that combines machine translation (Google or DeepL) with LLM-based refinement to produce high-quality translations across multiple languages.
+This project provides a reference implementation of the hybrid translation pipeline described in our paper, MAPS: A Multilingual Agent Performance and Safety Benchmark. It supports the construction of high-quality multilingual datasets by combining machine translation with LLM-based refinement and quality assurance.
 
-## Features
+## ey Features
 
 - **Hybrid Translation Pipeline**: Combines the speed of machine translation with the quality of LLM-based refinement
 - **Math Expression Preservation**: Preserves LaTeX and other mathematical expressions during translation
