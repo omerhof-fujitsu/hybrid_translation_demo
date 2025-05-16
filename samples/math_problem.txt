@@ -1,0 +1,23 @@
+# Sample Math Problem
+
+In a triangle ABC, the points D, E, and F are the midpoints of sides BC, CA, and AB, respectively. Prove that:
+
+$\vec{AD} + \vec{BE} + \vec{CF} = \vec{0}$
+
+Additionally, use the midpoint formula to show that the centroid G of the triangle divides each median in the ratio $2:1$.
+
+## Part 2
+
+Consider a parallelogram with vertices at $(0,0)$, $(a,0)$, $(b,c)$, and $(a+b,c)$ where $a$, $b$, and $c$ are positive real numbers.
+
+1. Calculate the area of the parallelogram.
+2. Find the coordinates of the intersection point of the diagonals.
+3. If $a=3$, $b=2$, and $c=4$, calculate the perimeter of the parallelogram.
+
+## Part 3
+
+The normal distribution with mean $\mu$ and standard deviation $\sigma$ has probability density function:
+
+$$f(x) = \frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma^2}}$$
+
+Explain why the standard normal distribution (where $\mu=0$ and $\sigma=1$) is important in statistics.

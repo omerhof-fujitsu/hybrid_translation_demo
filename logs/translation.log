@@ -1,0 +1,50 @@
+2025-05-16 11:10:06 - translation_system - [31mERROR[0m - No OpenAI API key found. LLM translation will not be available.
+2025-05-16 11:10:06 - translation_system - [33mWARNING[0m - No Google Cloud credentials found. Google translation will not be available.
+2025-05-16 11:10:06 - translation_system - [33mWARNING[0m - No DeepL API key found. DeepL translation will not be available.
+2025-05-16 11:10:06 - translation_system - [31mERROR[0m - No translators could be initialized. Please check your API keys.
+2025-05-16 11:10:48 - translation_system - [31mERROR[0m - No OpenAI API key found. LLM translation will not be available.
+2025-05-16 11:10:48 - translation_system - [33mWARNING[0m - No Google Cloud credentials found. Google translation will not be available.
+2025-05-16 11:10:48 - translation_system - [33mWARNING[0m - No DeepL API key found. DeepL translation will not be available.
+2025-05-16 11:10:48 - translation_system - [31mERROR[0m - No translators could be initialized. Please check your API keys.
+2025-05-16 11:11:14 - translation_system - [32mINFO[0m - SimpleMathPreserver initialized
+2025-05-16 11:11:16 - translation_system - [32mINFO[0m - Saved prompts for math/llm
+2025-05-16 11:11:16 - translation_system - [32mINFO[0m - Saved prompts for math/hybrid
+2025-05-16 11:11:16 - translation_system - [32mINFO[0m - Saved prompts for general/llm
+2025-05-16 11:11:16 - translation_system - [32mINFO[0m - Saved prompts for general/hybrid
+2025-05-16 11:11:16 - translation_system - [32mINFO[0m - Saved prompts for technical/llm
+2025-05-16 11:11:16 - translation_system - [32mINFO[0m - Saved prompts for technical/hybrid
+2025-05-16 11:11:16 - translation_system - [32mINFO[0m - LLM Translator initialized successfully with model: azure/gpt-4o-multilingual for dataset type: math
+2025-05-16 11:11:16 - translation_system - [32mINFO[0m - SimpleMathPreserver initialized
+2025-05-16 11:11:16 - translation_system - [32mINFO[0m - Google Translate client initialized successfully
+2025-05-16 11:11:16 - translation_system - [32mINFO[0m - SimpleMathPreserver initialized
+2025-05-16 11:11:16 - translation_system - [31mERROR[0m - deepl is not installed. Install with: pip install deepl
+2025-05-16 11:11:44 - translation_system - [32mINFO[0m - SimpleMathPreserver initialized
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Loaded prompts for technical/llm
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Loaded prompts for technical/hybrid
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Loaded prompts for math/llm
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Loaded prompts for math/hybrid
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Loaded prompts for general/llm
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Loaded prompts for general/hybrid
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - LLM Translator initialized successfully with model: azure/gpt-4o-multilingual for dataset type: math
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - SimpleMathPreserver initialized
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Google Translate client initialized successfully
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - SimpleMathPreserver initialized
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - DeepL client initialized successfully
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - SimpleMathPreserver initialized
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Loaded prompts for technical/llm
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Loaded prompts for technical/hybrid
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Loaded prompts for math/llm
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Loaded prompts for math/hybrid
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Loaded prompts for general/llm
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Loaded prompts for general/hybrid
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Loaded hybrid prompts for math dataset
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Translating text using hybrid translator to Japanese...
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Extracted 0 math expressions from text
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Using Google translator for language Japanese (DeepL support: False)
+2025-05-16 11:11:45 - translation_system - [32mINFO[0m - Extracted 0 math expressions from text
+2025-05-16 11:11:46 - translation_system - [32mINFO[0m - Machine translation completed using GoogleTranslator
+2025-05-16 11:11:47 - translation_system - [32mINFO[0m - Machine translation verification result: PASS
+2025-05-16 11:13:53 - translation_system - [32mINFO[0m - LLM enhancement of machine translation completed
+2025-05-16 11:17:35 - translation_system - [33mWARNING[0m - Safety check detected a question was answered instead of translated
+2025-05-16 11:17:35 - translation_system - [33mWARNING[0m - Safety check failed - falling back to machine translation
+2025-05-16 11:17:35 - translation_system - [32mINFO[0m - Translation completed successfully.
